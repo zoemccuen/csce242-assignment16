@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "mongodb": "^6.5.0"
+    "mongodb": "^6.5.0",
+    "mongoose": "^8.2.4"
   },
   "name": "project-dir",
   "description": "",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
